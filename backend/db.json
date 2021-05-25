@@ -1,0 +1,30 @@
+{
+    "usuarios": [
+    
+    {
+        "id": 1,
+        "name": "Camila",
+        "surname": "Sousa",
+        "email": "c.sousa@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Pedro",
+        "surname": "Almeida",
+        "email": "p.almeida@gmail.com"
+    },
+    {
+        "id": 1,
+        "name": "Caio",
+        "surname": "Coelho",
+        "email": "caio.coelho@gmail.com"
+    },
+    {
+        "id": 1,
+        "name": "Larissa",
+        "surname": "Martins",
+        "email": "lari.martins@gmail.com"
+    }
+
+]
+}
